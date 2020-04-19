@@ -1,0 +1,23 @@
+{
+  "name": "@rendrrlabs/disposable-email-list",
+  "version": "1.0.8",
+  "description": "Disposable email checker, Wide range of disposable email providers list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendrrlabs/disposable-email-list.git"
+  },
+  "keywords": [
+    "Disposable",
+    "Emails"
+  ],
+  "author": "Rendrr Devign Labs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rendrrlabs/disposable-email-list/issues"
+  },
+  "homepage": "https://github.com/rendrrlabs/disposable-email-list#readme"
+}
